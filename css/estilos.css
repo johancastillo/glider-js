@@ -17,6 +17,12 @@ body {
 	margin: auto;
 }
 
+/* --- --- Imágenes --- --- */
+.glider-slide img{
+	padding: 3px;
+}
+
+
 /* --- --- CONTENEDOR PRINCIPAL --- --- */
 
 .contenido-principal {
